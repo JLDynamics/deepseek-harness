@@ -38,3 +38,7 @@ apps/web/dist/
 worktrees/
 .agents/worktrees/
 .typert-*/
+
+# J-Space runtime controller ledger and Python bytecode
+.jspace/
+__pycache__/
